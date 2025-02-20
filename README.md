@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 How to Reach Me
 
-- **Email:** almansori@example.com
-- **LinkedIn:** [Almansori](https://www.linkedin.com/in/almansori)
+- **Email:** m_3212002@hotmail.com
+- **LinkedIn:** [Almansori](https://www.linkedin.com/in/mohammed-almansori-1530a5ab/)
 - **Twitter:** [@AlmansoriDev](https://twitter.com/AlmansoriDev)
 
 ## 🌟 Projects
